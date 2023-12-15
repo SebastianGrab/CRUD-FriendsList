@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SebastianGrab\\Documents\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj": {}
+    "C:\\Users\\SebastianGrab\\Documents\\Docker anpassen\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SebastianGrab\\Documents\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj": {
+    "C:\\Users\\SebastianGrab\\Documents\\Docker anpassen\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SebastianGrab\\Documents\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj",
+        "projectUniqueName": "C:\\Users\\SebastianGrab\\Documents\\Docker anpassen\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj",
         "projectName": "csharp-crud-api",
-        "projectPath": "C:\\Users\\SebastianGrab\\Documents\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj",
+        "projectPath": "C:\\Users\\SebastianGrab\\Documents\\Docker anpassen\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj",
         "packagesPath": "C:\\Users\\SebastianGrab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SebastianGrab\\Documents\\CRUD-FriendsList\\csharp-crud-api\\obj\\",
+        "outputPath": "C:\\Users\\SebastianGrab\\Documents\\Docker anpassen\\CRUD-FriendsList\\csharp-crud-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SebastianGrab\\AppData\\Roaming\\NuGet\\NuGet.Config",
