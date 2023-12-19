@@ -1,0 +1,724 @@
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\appsettings.Development.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\appsettings.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\FrontEnd.staticwebassets.runtime.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\FrontEnd.exe
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\FrontEnd.deps.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\FrontEnd.runtimeconfig.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\FrontEnd.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\FrontEnd.pdb
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.AssemblyInfoInputs.cache
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.AssemblyInfo.cs
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.csproj.CoreCompileInputs.cache
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.RazorAssemblyInfo.cache
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.RazorAssemblyInfo.cs
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\staticwebassets.build.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\staticwebassets.development.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\staticwebassets\msbuild.FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\staticwebassets\msbuild.build.FrontEnd.props
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FrontEnd.props
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FrontEnd.props
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\staticwebassets.pack.json
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\scopedcss\bundle\FrontEnd.styles.css
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\scopedcss\projectbundle\FrontEnd.bundle.scp.css
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\refint\FrontEnd.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.pdb
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.genruntimeconfig.cache
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\ref\FrontEnd.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\mscorlib.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\netstandard.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.AppContext.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Buffers.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Collections.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ComponentModel.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Configuration.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Console.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Core.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Data.Common.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Data.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Drawing.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Globalization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.Compression.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Linq.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Memory.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Http.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Mail.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Ping.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Quic.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Requests.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Security.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Numerics.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ObjectModel.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Claims.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Principal.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Text.Json.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Transactions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.ValueTuple.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Web.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Windows.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\refs\WindowsBase.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.csproj.AssemblyReference.cache
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\work\901 fr crud simplw with web api\CRUD-FriendsList-main\CRUD-FriendsList-main\FrontEnd\obj\Debug\net7.0\FrontEnd.csproj.CopyComplete
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\appsettings.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\FrontEnd.staticwebassets.runtime.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\FrontEnd.exe
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\FrontEnd.deps.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\FrontEnd.runtimeconfig.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\FrontEnd.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\FrontEnd.pdb
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\mscorlib.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\netstandard.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.AppContext.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Buffers.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Collections.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ComponentModel.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Configuration.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Console.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Core.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Data.Common.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Data.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Drawing.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Globalization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.Compression.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Linq.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Memory.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Http.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Mail.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Ping.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Quic.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Requests.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Security.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Numerics.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ObjectModel.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Claims.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Principal.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Text.Json.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Transactions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.ValueTuple.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Web.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Windows.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\refs\WindowsBase.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.AssemblyInfo.cs
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.RazorAssemblyInfo.cache
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.RazorAssemblyInfo.cs
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\staticwebassets\msbuild.FrontEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\staticwebassets\msbuild.build.FrontEnd.props
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FrontEnd.props
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FrontEnd.props
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\scopedcss\bundle\FrontEnd.styles.css
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\scopedcss\projectbundle\FrontEnd.bundle.scp.css
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.csproj.CopyComplete
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\refint\FrontEnd.dll
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.pdb
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\FrontEnd.genruntimeconfig.cache
+C:\Users\SebastianGrab\Documents\MSA\CRUD-FriendsList\Frontend\obj\Debug\net7.0\ref\FrontEnd.dll

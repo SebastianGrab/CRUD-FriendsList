@@ -1,0 +1,53 @@
+﻿@model IEnumerable<FriendViewModel>
+
+@{
+    <script>
+        function closeDiv() {
+            var alertDiv = document.getElementById("alertDiv");
+            if (alertDiv) {
+                alertDiv.style.display = "none"; // Hide the div
+            }
+        }
+    </script>
+
+    if (ViewBag.Message != null)
+    {
+        <div id="alertDiv" class="alert alert-success" role="alert">
+            <span>@ViewBag.Message</span>
+            <button type="button" style="float:right; border:0px!important;background-color:#d1e7dd" class="close" aria-label="Close" onclick="closeDiv();">
+                <strong><span aria-hidden="true" style="color:#0f5132;">&times;</span></strong>
+            </button>
+        </div>            
+           
+    }      
+}
+
+<h2>Friends List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary m-3">Add Friend</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Date of Birth</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+            <td>@Html.DisplayFor(modelItem => item.Email)</td>
+            <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+            <td>@Html.DisplayFor(modelItem => item.DoB)</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
