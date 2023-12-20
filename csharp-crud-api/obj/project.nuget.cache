@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oF7PnlXCjKg8Ts2wVNNn3/xy79shrknxRQOHBBmUEb+vPpGAClYOHy26v9XzghtVqcywhDZeLbs1NZrYgijtxw==",
+  "dgSpecHash": "d8ejDPjQdJ5+oCELvGzzk7m01pYmwEo0tZWTgyWNTjGoaDC+No+i5piQviNkGwAJ6asFwXea6tB9fv7tHx8D0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SebastianGrab\\Documents\\Docker anpassen\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj",
+  "projectFilePath": "C:\\Users\\SebastianGrab\\Documents\\MSA\\CRUD-FriendsList\\csharp-crud-api\\csharp-crud-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SebastianGrab\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\SebastianGrab\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
