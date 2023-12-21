@@ -6,7 +6,9 @@ services:
       context: csharp-crud-api
       dockerfile: Dockerfile
     ports:
-      - "8080:80"
+      - "8080:8080"
+    networks:
+      - friends-network
     depends_on:
       - db
     environment:
@@ -21,6 +23,8 @@ services:
       - POSTGRES_DB=postgres
     ports:
       - "5432:5432"
+    networks:
+      - friends-network
     volumes:
       - pgdata:/var/lib/postgresql/data
   ui:
@@ -29,9 +33,15 @@ services:
       context: frontend
       dockerfile: Dockerfile
     ports:
-      - "8081:81"
+      - "8081:8081"
+    networks:
+      - friends-network
     depends_on:
       - csharp_app
 
 volumes:
   pgdata: {}
+
+networks:
+  friends-network:
+    driver: bridge
