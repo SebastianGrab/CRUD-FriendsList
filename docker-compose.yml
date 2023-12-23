@@ -33,11 +33,13 @@ services:
       context: frontend
       dockerfile: Dockerfile
     ports:
-      - "8081:81"
+      - "8081:80"
     # networks:
     #   - friends-network
     depends_on:
       - csharp_app
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
 
 volumes:
   pgdata: {}

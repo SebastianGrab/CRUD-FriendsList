@@ -28,6 +28,4 @@ docker-compose up -d csharp_app
 
 - adjust _apiBaseUrl in Frontend > Controllers > FriendsController
 
-cd ./frontend
-
-dotnet run
+docker-compose up -d ui
