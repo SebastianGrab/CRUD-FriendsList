@@ -7,8 +7,8 @@ services:
       dockerfile: Dockerfile
     ports:
       - "8080:80"
-    # networks:
-    #   - friends-network
+    networks:
+      - friends-network
     depends_on:
       - db
     environment:
@@ -23,8 +23,8 @@ services:
       - POSTGRES_DB=postgres
     ports:
       - "5432:5432"
-    # networks:
-    #   - friends-network
+    networks:
+      - friends-network
     volumes:
       - pgdata:/var/lib/postgresql/data
   ui:
@@ -34,8 +34,8 @@ services:
       dockerfile: Dockerfile
     ports:
       - "8081:80"
-    # networks:
-    #   - friends-network
+    networks:
+      - friends-network
     depends_on:
       - csharp_app
     environment:
@@ -44,6 +44,6 @@ services:
 volumes:
   pgdata: {}
 
-# networks:
-#   friends-network:
-#     driver: bridge
+networks:
+  friends-network:
+    driver: bridge

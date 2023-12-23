@@ -6,7 +6,7 @@ namespace FrontEnd.Controllers
     public class FriendsController : Controller
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiBaseUrl = "https://shiny-space-fiesta-69g6wg7rqrvwhxv6q-8080.app.github.dev/api/friends"; // Update with your API URL
+        private readonly string _apiBaseUrl = "https://zany-winner-v6v4wv7g9p79fpxjw-8080.app.github.dev/api/friends"; // Update with your API URL
 
         public FriendsController(HttpClient httpClient)
         {
